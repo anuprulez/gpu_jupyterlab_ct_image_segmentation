@@ -14,5 +14,7 @@ Computer Methods and Programs in Biomedicine Update,Volume 1,2021,100007,ISSN 26
 
 Citation:
 ```
-
+ColabFold - Making protein folding accessible to all
+Milot Mirdita, Sergey Ovchinnikov, Martin Steinegger
+bioRxiv 2021.08.15.456425; doi: https://doi.org/10.1101/2021.08.15.456425
 ```
