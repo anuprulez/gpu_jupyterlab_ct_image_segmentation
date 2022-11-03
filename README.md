@@ -1,6 +1,7 @@
 # Notebook examples for reproducing two usecases using GPU-enabled Jupyterlab in Galaxy Europe
 1. Notebooks 1-6: Reproduce analysis from paper https://www.sciencedirect.com/science/article/pii/S2666990021000069 using notebook itself and via remote training
 
+
 Citation:
 ```
 Narges Saeedizadeh, Shervin Minaee, Rahele Kafieh, Shakib Yazdani, Milan Sonka,
